@@ -4,7 +4,7 @@
 define("DB_HOST", "localhost");
 
 //nombre de la base de datos
-define("DB_NAME", "");
+define("DB_NAME", "dbsistema");
 
 //Usuario de la base de datos
 define("DB_USERNAME", "root");
