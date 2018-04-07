@@ -7,8 +7,18 @@
     <!-- jQuery 2.1.4 -->
     <script src="../public/js/jquery-3.1.1.min.js"></script>
     <!-- Bootstrap 3.3.5 -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="../public/js/bootstrap.min.js"></script>
     <!-- AdminLTE App -->
-    <script src="js/app.min.js"></script>
+    <script src="../public/js/app.min.js"></script>
+
+    <!--DATATABLES-->
+    <script src="../public/dataTables/jquery.datatables.min.js"></script>
+    <script src="../public/dataTables/dataTables.buttons.min.js"></script>
+    <script src="../public/dataTables/buttons.html5.min.js"></script>
+    <script src="../public/dataTables/buttons.colVis.min.css"></script>
+    <script src="../public/dataTables/jszip.min.js"></script>
+    <script src="../public/dataTables/pdfmake.min.js"></script>
+    <script src="../public/dataTables/vfs_fonts.js"></script>
+
   </body>
 </html>
